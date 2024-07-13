@@ -1,0 +1,38 @@
+body{
+    display: flex;
+    background-color: aqua;
+}
+.main{
+    position: relative;
+    top:100px;
+    left: 400px;
+    width: 300px;
+    height: 300px;
+    /* display: flex; */
+    /* align-items: center; */
+    background-color: rgb(251, 255, 4);
+    border-radius: 50%;
+}
+.chapKoz{
+    position:absolute;
+    top:100px;
+    left: 60px;
+    width: 50px;
+    height: 50px;
+    /* display: flex; */
+    /* align-items: center; */
+    background-color: rgb(4, 75, 255);
+    border-radius: 50%;
+}
+
+.ongKoz{
+    position:absolute;
+    top: 100px;
+    left: 200px;
+    width: 50px;
+    height: 50px;
+    /* display: flex; */
+    /* align-items: center; */
+    background-color: rgb(4, 75, 255);
+    border-radius: 50%;
+}
